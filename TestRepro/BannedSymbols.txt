@@ -1,0 +1,2 @@
+﻿M:System.Threading.Tasks.Task.Delay(System.Int32, System.Threading.CancellationToken); Use the time handling interfaces instead.
+M:System.Threading.Tasks.Task.Delay(System.Int32); Use the time handling interfaces instead.
